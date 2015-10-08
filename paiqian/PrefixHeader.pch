@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  paiqian
+//
+//  Created by LuoJiee on 15/9/24.
+//  Copyright © 2015年 LuoJiee. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+
+#import "Common.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+
