@@ -20,7 +20,7 @@
     UIViewController *controller = [[UIStoryboard storyboardWithName:@"Login" bundle:nil]instantiateViewControllerWithIdentifier:@"LoginViewController"];
     UINavigationController *NavCtl = [[UINavigationController alloc]initWithRootViewController:controller];
     self.window.rootViewController = NavCtl;
-    int a=1;
+    int a=3;
     return YES;
 }
 
